@@ -18,7 +18,7 @@ Before running the app, ensure you have the following:
 • Android smartphone with ARCore support: Teach'AR is currently only available for Android devices.
 • Basic knowledge of Android development. 
 
-## Installation:
+# Installation:
 • Download the Teach'AR  repository ZIP file or clone this repository to your local machine:
 git clone https://github.com/kouamdestin/Teach-AR.git
 • Install Android Studio.
@@ -39,7 +39,7 @@ git clone https://github.com/kouamdestin/Teach-AR.git
 • Point your camera: Point your device's camera at a flat surface and follow the on-screen instructions.
 • Experience AR learning: The selected topic's 3D model will be displayed in augmented reality, allowing you to explore and interact with it.
 
-#Note: 
+# Note: 
 • This is a prototype version of the Teach'AR app and may not contain all intended features. 
 • You can test your app in Unity Editor using the AR Foundation before building and deploying.
 
