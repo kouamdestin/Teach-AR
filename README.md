@@ -29,8 +29,7 @@ git clone https://github.com/kouamdestin/Teach-AR.git
 # Running the App:
 • Connect your Android device to your computer using a USB cable and enable "Developer Mode" on your device.
 •	Ensure you have the necessary Unity versions and AR plugins installed and configured.
-•	Build and deploy the app to your target platform (Android).
-• In Android Studio, click the Run button to build and install the app on your connected device. The app will be installed and ready to be launched on your smartphone.
+•	Build and deploy the app to your target platform (Android): In Unity, click Build and Run to create an APK. The APK will be installed on your connected Android device, and ready to be launched on your smartphone.
 
 # Launching the App:
 Once installed, find the "Teach'AR" app icon on your device and launch it.
