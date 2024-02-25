@@ -7,12 +7,14 @@ Android smartphone: Teach'AR is currently only available for Android devices.
 Android Studio: Download (https://developer.android.com/studio), and install Android Studio to build and run the app.
 Basic knowledge of Android development: This repository is intended for developers with experience in Android development practices.
 
-# Running the App:
+# Installation:
+Download the Teach'AR  repository ZIP file or clone this repository to your local machine:
+git clone https://github.com/kouamdestin/Teach-AR.git
+Open the Teach'AR folder in Android Studio.
 
-Download the repository: Clone this repository using Git or download the ZIP file.
-Open the project in Android Studio: Open the teacher folder in Android Studio.
-Connect your Android device: Connect your Android device to your computer using a USB cable and enable "Developer Mode" on your device.
-Run the app: Click the "Run" button in Android Studio. The app will be installed and launched on your device.
+# Running the App:
+Connect your Android device to your computer using a USB cable and enable "Developer Mode" on your device.
+In Android Studio, click the Run button to build and install the app on your connected device. The app will be installed and ready to be launched on your smartphone.
 Launching the App:
 
 Open the app: Once installed, find the "Teach'AR" app icon on your device and launch it.
