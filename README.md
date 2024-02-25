@@ -2,7 +2,7 @@
 This repository holds the source code for a captivating and interactive Augmented Reality (AR) app developed using Unity, designed to foster an engaging learning experience for users.
 
 # About Teach'AR
-Teach’AR is a smartphone application that uses augmented and mixed reality (AR/MR) to help you learn new or complex concepts Visually and interactively. 3D models and animations are overlaid onto the real world through a smartphone camera, helping learners visualize complex concepts and improve information retention.Teach’AR aims to significantly enhance the academic performance of learners in Africa. Whether you’re a student, teacher, or self-learner, teach’AR provides an engaging and visual learning experience.
+Teach’AR is a smartphone application that uses augmented and mixed reality (AR/MR) to help you learn new or complex concepts Visually and interactively. 3D models and animations are overlaid onto the real world through a smartphone camera, helping learners visualize complex concepts and improve information retention.Teach’AR aims to significantly enhance the academic performance of learners in Africa. The app also has inclusive lessons such as the sign language tutor with exact gestures to help users learn sign language. Whether you’re a student, teacher, or self-learner, teach’AR provides an engaging and visual learning experience.
 
 #Features:
 •	Immersive AR Integration: Leverages AR technology to overlay virtual objects and information onto the real world, enhancing comprehension and visualization.
@@ -34,9 +34,11 @@ git clone https://github.com/kouamdestin/Teach-AR.git
 
 # Launching the App:
 • Once installed, find the "Teach'AR" app icon on your device and launch it.
-• Grant necessary permissions when prompted, such as camera access.
-• Choose a topic: Browse the available learning topics in the app's interface.
-• Point your camera: Point your device's camera at a flat surface and follow the on-screen instructions.
+• When prompted, grant the necessary permissions, such as camera access, to allow the app to function properly.
+• Select the grade level you're interested in. Currently, only content for Form 1 is available. Confirm your selection by clicking "Done."
+• Browse through the list of available learning topics displayed in the app's interface.
+Bonus: We also feature inclusive lessons, such as a sign language tutor with accurate gesture demonstrations, to help users learn sign language effectively.
+• Point your device's camera at a flat surface and  click on the black circle to Witness the chosen 3D Model come to life in augmented reality. The 3D model will appear on your screen, allowing you to explore and interact with it in an engaging and informative way.
 • Experience AR learning: The selected topic's 3D model will be displayed in augmented reality, allowing you to explore and interact with it.
 
 # Note: 
