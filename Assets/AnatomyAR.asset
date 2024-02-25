@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb41a5d3cf98c8441b83010abbbcb67d, type: 3}
+  m_Name: AnatomyAR
+  m_EditorClassIdentifier: 
+  gameObjects:
+  - Arobject: {fileID: 8700574502166289494, guid: b7b60f0f2c287814f8718d93e1d57ec5,
+      type: 3}
+    description: The human skeleton is the internal framework of the human body consisting
+      of many individual bones and cattilages. it has 2 main subdivisions, the Axial,
+      comprising the vertebral column (the spine) and much of the skull, and the
+      appendicular, to which the pelvic(hip) and pectoral (shoulder) girdles and
+      the bones and the cattilages of the limbs belong
+    AudioDescription: {fileID: 8300000, guid: faa28e36c565e724e98e52691ba6857e, type: 3}
+  - Arobject: {fileID: 2813540282576612046, guid: 7e5c9a7c324be8744809dfe63312ed75,
+      type: 3}
+    description: The human heart is a muscular organ that pumps blood throughout
+      the body. It is located in the center of the chest, between the lungs. The
+      heart is about the size of a fist and weighs about 11 ounces (310 grams) in
+      men and 10 ounces (280 grams) in women.
+    AudioDescription: {fileID: 8300000, guid: 96935d1d448f2a5488cd48fd2c5d4c7a, type: 3}
+  - Arobject: {fileID: 4793034100302701509, guid: 81c17082d45680f439ca7d1e60e765b7,
+      type: 3}
+    description: The dijestive system is an essential part of the body that is responsible
+      for breaking down food into nutrients that the body can use for energy,growth
+      and repair
+    AudioDescription: {fileID: 8300000, guid: 498f3a223607a9a4da47912987282a7c, type: 3}
+  - Arobject: {fileID: 3996896937809675091, guid: 04b5ade5f4d46f74dba19324cb152820,
+      type: 3}
+    description: ' An animal cell is the basic unit of life in animals. It is a eukaryotic
+      cell, meaning that it has a nucleus and other organelles that are enclosed
+      by a membrane. Animal cells are typically smaller than plant cells and have
+      an irregular shape.'
+    AudioDescription: {fileID: 8300000, guid: 0923c48d420c0544d97588fa39fd9fbc, type: 3}
+  - Arobject: {fileID: 8364058250816618311, guid: 6f2d379eb20f81f4b8e512097bce15b3,
+      type: 3}
+    description: The respiratory system is the network of organs and tissues that
+      help us breathe
+    AudioDescription: {fileID: 8300000, guid: 053643453f7b89a47aa12b9392077b20, type: 3}
+  - Arobject: {fileID: 3192930450859081912, guid: 62f9fe3a3259742439cc1b52d8707b0f,
+      type: 3}
+    description: The respiratory system is the network of organs and tissues that
+      help us breathe
+    AudioDescription: {fileID: 8300000, guid: 053643453f7b89a47aa12b9392077b20, type: 3}
+  - Arobject: {fileID: 8340610901717592218, guid: 783c090bcbfbe68459c2aa1be5a6d1b7,
+      type: 3}
+    description: The respiratory system is the network of organs and tissues that
+      help us breathe
+    AudioDescription: {fileID: 8300000, guid: 053643453f7b89a47aa12b9392077b20, type: 3}
