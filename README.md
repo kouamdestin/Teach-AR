@@ -7,7 +7,7 @@ Teach’AR is a smartphone application that uses augmented and mixed reality (AR
 #Features:
 •	Immersive AR Integration: Leverages AR technology to overlay virtual objects and information onto the real world, enhancing comprehension and visualization.
 •	Interactive 3d Learning Model: Provides engaging activities to stimulate and reinforce knowledge acquisition and improve information retention.
-• Real-world visualizations: Immerse learners in a scenario where he is still have information from the real world.
+• Real-world visualizations: Immerse learners in a scenario where he/she still has information from the real world.
 •	Appealing Visual Design: Features captivating graphics and a user-friendly interface to keep users engaged and motivated.
 
 # Prerequisites:
@@ -24,23 +24,24 @@ git clone https://github.com/kouamdestin/Teach-AR.git
 • Install Android Studio.
 • Install Unity Hub.
 • Install ARCore XR Plugin in Unity.
-• Open the Teach'AR folder in Unity.
+• Open the Teach'AR folder in Unity. In Unity, navigate to File > Build Settings, select Android as the Platform; configure the build setting, and choose a location to save the generated file.
 
 # Running the App:
 • Connect your Android device to your computer using a USB cable and enable "Developer Mode" on your device.
 •	Ensure you have the necessary Unity versions and AR plugins installed and configured.
-•	Build and deploy the app to your target platform (Android): In Unity, click Build and Run to create an APK. The APK will be installed on your connected Android device, and ready to be launched on your smartphone.
+•	Build and deploy the app to your target platform (Android): In Unity, click Build and Run to create an APK. 
+• Transfer the signed APK file to your Android device. Use a file manager app on your device to locate and install the AAB file. The APK will be installed on your connected Android device, and ready to be launched on your smartphone.
 
 # Launching the App:
-Once installed, find the "Teach'AR" app icon on your device and launch it.
-Grant necessary permissions when prompted, such as camera access.
-Choose a topic: Browse the available learning topics in the app's interface.
-Point your camera: Point your device's camera at a flat surface and follow the on-screen instructions.
-Experience AR learning: The selected topic's 3D model will be displayed in augmented reality, allowing you to explore and interact with it.
+• Once installed, find the "Teach'AR" app icon on your device and launch it.
+• Grant necessary permissions when prompted, such as camera access.
+• Choose a topic: Browse the available learning topics in the app's interface.
+• Point your camera: Point your device's camera at a flat surface and follow the on-screen instructions.
+• Experience AR learning: The selected topic's 3D model will be displayed in augmented reality, allowing you to explore and interact with it.
 
-
-#Note: This is a prototype version of the Teach'AR app and may not contain all intended features.
-
+#Note: 
+• This is a prototype version of the Teach'AR app and may not contain all intended features. 
+• You can test your app in Unity Editor using the AR Foundation before building and deploying.
 
 # Disclaimer:
 
