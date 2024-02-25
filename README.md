@@ -33,7 +33,7 @@ Point your camera: Point your device's camera at a flat surface and follow the o
 Experience AR learning: The selected topic's 3D model will be displayed in augmented reality, allowing you to explore and interact with it.
 
 
-# Note: This is a prototype version of the Teach'AR app and may not contain all intended features.
+#Note: This is a prototype version of the Teach'AR app and may not contain all intended features.
 
 
 # Disclaimer:
