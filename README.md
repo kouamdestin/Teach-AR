@@ -12,7 +12,8 @@ Teach’AR is a smartphone application that uses augmented and mixed reality (AR
 
 # Prerequisites:
 Before running the app, ensure you have the following:
-•	Unity: Download (https://unity.com) and install Unity
+•	Unity: Download (https://unity.com) and install Unity.
+
 •	ARCore :  https://developers.google.com/ar/
 • Android smartphone: Teach'AR is currently only available for Android devices.
 
