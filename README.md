@@ -16,7 +16,7 @@ Before running the app, ensure you have the following:
 •	ARCore :  https://developers.google.com/ar/
 • Android smartphone: Teach'AR is currently only available for Android devices.
 
-# Installation:
+## Installation:
 Download the Teach'AR  repository ZIP file or clone this repository to your local machine:
 git clone https://github.com/kouamdestin/Teach-AR.git
 Open the Teach'AR folder in Android Studio.
