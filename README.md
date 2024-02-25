@@ -1,4 +1,7 @@
 # Welcome to the Teach'AR repository!
+This repository holds the source code for a captivating and interactive Augmented Reality (AR) app developed using Unity, designed to foster an engaging learning experience for users.
+
+#About Teach'AR
 Teach’AR is a smartphone application that uses augmented and mixed reality (AR/MR) to help you learn new or complex concepts Visually and interactively. 3D models and animations are overlaid onto the real world through a smartphone camera, helping learners visualize complex concepts and improve information retention.Teach’AR aims to significantly enhance the academic performance of learners in Africa. Whether you’re a student, teacher, or self-learner, teach’AR provides an engaging and visual learning experience.
 
 # Prerequisites:
