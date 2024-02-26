@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "g:\\Projects\\image\\TeachAR\\LeanTouch.csproj": {}
+  },
+  "projects": {
+    "g:\\Projects\\image\\TeachAR\\CW.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "g:\\Projects\\image\\TeachAR\\CW.Common.csproj",
+        "projectName": "CW.Common",
+        "projectPath": "g:\\Projects\\image\\TeachAR\\CW.Common.csproj",
+        "packagesPath": "C:\\Users\\HENRY\\.nuget\\packages\\",
+        "outputPath": "g:\\Projects\\image\\TeachAR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HENRY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "g:\\Projects\\image\\TeachAR\\LeanCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "g:\\Projects\\image\\TeachAR\\LeanCommon.csproj",
+        "projectName": "LeanCommon",
+        "projectPath": "g:\\Projects\\image\\TeachAR\\LeanCommon.csproj",
+        "packagesPath": "C:\\Users\\HENRY\\.nuget\\packages\\",
+        "outputPath": "g:\\Projects\\image\\TeachAR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HENRY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "g:\\Projects\\image\\TeachAR\\CW.Common.csproj": {
+                "projectPath": "g:\\Projects\\image\\TeachAR\\CW.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "g:\\Projects\\image\\TeachAR\\LeanTouch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "g:\\Projects\\image\\TeachAR\\LeanTouch.csproj",
+        "projectName": "LeanTouch",
+        "projectPath": "g:\\Projects\\image\\TeachAR\\LeanTouch.csproj",
+        "packagesPath": "C:\\Users\\HENRY\\.nuget\\packages\\",
+        "outputPath": "g:\\Projects\\image\\TeachAR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HENRY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "g:\\Projects\\image\\TeachAR\\CW.Common.csproj": {
+                "projectPath": "g:\\Projects\\image\\TeachAR\\CW.Common.csproj"
+              },
+              "g:\\Projects\\image\\TeachAR\\LeanCommon.csproj": {
+                "projectPath": "g:\\Projects\\image\\TeachAR\\LeanCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

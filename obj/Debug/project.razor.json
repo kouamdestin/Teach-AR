@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "g:\\Projects\\image\\TeachAR\\obj\\Debug\\project.razor.json",
+  "FilePath": "g:\\Projects\\image\\TeachAR\\Assembly-CSharp-Editor.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
