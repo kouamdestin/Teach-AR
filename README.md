@@ -4,7 +4,7 @@ This repository holds the source code for a captivating and interactive Augmente
 # About Teach'AR
 Teach’AR is a smartphone application that uses augmented and mixed reality (AR/MR) to help you learn new or complex concepts Visually and interactively. 3D models and animations are overlaid onto the real world through a smartphone camera, helping learners visualize complex concepts and improve information retention.Teach’AR aims to significantly enhance the academic performance of learners in Africa. The app also has inclusive lessons such as the sign language tutor with exact gestures to help users learn sign language. Whether you’re a student, teacher, or self-learner, teach’AR provides an engaging and visual learning experience.
 
-#Features:
+# Features:
 •	Immersive AR Integration: Leverages AR technology to overlay virtual objects and information onto the real world, enhancing comprehension and visualization.
 •	Interactive 3d Learning Model: Provides engaging activities to stimulate and reinforce knowledge acquisition and improve information retention.
 • Real-world visualizations: Immerse learners in a scenario where he/she still has information from the real world.
